@@ -1,3 +1,4 @@
+![1000143251](https://github.com/user-attachments/assets/e7ddf932-6b14-4211-8155-49852dffd591)
 # Xeyra Bot
 
 **Xeyra Bot** Discord sunucularını yönetmek için geliştirilmiş bir bot olup, sunucu yöneticilerine çeşitli araçlar ve kolaylıklar sunmaktadır. Yakında piyasaya çıkacak olan bu bot, kullanıcı dostu arayüzü ve bir dizi kullanışlı komutla Discord sunucularınızda size yardımcı olacak.
